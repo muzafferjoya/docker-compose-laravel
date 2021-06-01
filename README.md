@@ -6,7 +6,9 @@ Docker Compose workflow that sets up a LEMP network of containers for local Lara
 
 To get started, make sure you have Docker Installed on your system, and then clone this repository.
 
-## Spin up the containers for the web server by running  `docker-compose up -d --build site`.
+## Spin up the containers for the web server by running.
+
+ `docker-compose up -d --build site`.
 
 ## The following are built for our web server, with their exposed ports detailed:
 
